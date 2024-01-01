@@ -104,7 +104,20 @@ h1 {
     font-size: 18px;
     text-shadow: 0.5px 0.5px 0.5px rgb(38, 122, 179);
 }
-
+#rmAll {
+    padding: 5px;
+    background-color: rgb(249, 104, 104);
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px 0;
+}
+#rmAll:hover {
+    opacity: 0.8;
+}
+#rmAll:active {
+    opacity: 0.6;
+}
 @media (max-width: 340px) {
     #box {
         width: 90%;
