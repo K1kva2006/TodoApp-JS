@@ -79,7 +79,7 @@ h1 {
     word-break: break-all;
     font-weight: bold;
     border-radius: 2.5px;
-    font-family: cursive, sans-serif;
+    font-family: DejaVu Sans Mono, monospace;
     border: 2px dashed green;
 }
 .remove {
